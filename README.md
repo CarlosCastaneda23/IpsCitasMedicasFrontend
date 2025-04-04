@@ -14,18 +14,22 @@ Este es el frontend de la aplicación para agendar citas médicas en una IPS. Es
 ## 🚀 Ejecución paso a paso
 
 ### 1. 🔃 Clona el repositorio
-
+```
 git clone <URL_DEL_REPOSITORIO>
 cd ips-citas-medicas-frontend
-
+```
+---
 2. 📦 Instala dependencias
-
+```
 npm install
-
+```
+---
 3. ⚙️ Configura la URL del backend (revisar en donde se ejecuto el backend)
-
+---
 4. ▶️ Ejecuta el proyecto
+```
 npm run dev / npm start
-
+```
+```
 http://localhost:5173 - 3000
-
+```
